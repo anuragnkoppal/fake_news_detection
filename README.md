@@ -1,6 +1,6 @@
 # fake_news_detexn
 
-Detecting Fake News with Python
+Detecting Fake News with Python 
 To build a model to accurately classify a piece of news as REAL or FAKE.
 
 About Detecting Fake News with Python
